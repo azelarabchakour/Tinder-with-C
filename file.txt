@@ -1,0 +1,10 @@
+chakour H 18 500 20
+mohammed H 20 100 12
+fati F 18 600 30
+nissrine 20 200 25
+mehdi 25 600 10
+hajar F 18 600 30
+kawtar F 18 600 30
+meryem F 18 600 30
+fatiha F 18 600 30
+zineb F 18 600 30
